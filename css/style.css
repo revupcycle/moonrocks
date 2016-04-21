@@ -17,7 +17,7 @@ header {
 	border-color: #323232;
 	border-style: solid none solid none;
 	border-width: 1px 0 3px 0;
-	border-radius: 55% 0 75% 0;
+	border-radius: 75% 0 75% 0;
 	padding: 15px 0 10px 0;
 }
 
@@ -35,38 +35,6 @@ h3 {
 	padding: 1.25%;
 	text-decoration: none;
 	color: rgb(79,110,79);
-}
-
-.tagline ul {
-	text-align: center;
-	list-style-type: none;
-	font-style: normal;
-	font-family: 'Josefin Sans', sans-serif;
-	font-size: 1.25em; /* 20px/16=1.0em */
-	font-weight: normal;
-	width: 30%;
-	margin: 0 auto 10px auto;
-	background-color: #FFFFFF;
-	border-color: #323232;
-	border-style: solid none solid none;
-	border-width: 1px 0 2px 0;
-	padding: 1.25%;
-}
-.tagline ul li {
-	display: inline;
-	width: 50%;
-	padding: 1.25%;
-}
-.tagline ul li a {
-	text-decoration: none;
-	color: rgb(79,110,79);
-}
-.tagline ul li a:hover {
-	color: rgb(70,70,70);
-	font-style: italic;
-	font-family: 'Josefin Sans', sans-serif;
-	font-size: 1.0em; /* 16px/16=1.0em */
-	font-weight: normal;
 }
 
 img.align-center {
