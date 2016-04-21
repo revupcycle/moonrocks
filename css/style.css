@@ -37,29 +37,7 @@ h3 {
 	color: rgb(79,110,79);
 }
 
-img.align-center {
-	display: block;
-	margin: 0 auto 10px auto;
-	box-shadow: 0 0 10px #777777;
-}
-
-#intro {
-	width: 40%;
-	margin: 0 auto 10px auto;
-	color: rgb(79,110,79);
-	font-style: normal;
-	font-family: 'Josefin sans', sans-serif;
-	font-size: 1.25em; /* 20px/16=1.5em */
-	font-weight: normal;
-	line-height: 1.5em;
-	background-color: #FFFFFF;
-	border-color: #323232;
-	border-style: solid none solid none;
-	border-width: 1px 0 1px 0;
-	padding: 1.25%;
-}
-
-nav ul {
+nav.pages ul {
 	text-align: center;
 	list-style-type: none;
 	font-style: normal;
@@ -74,16 +52,16 @@ nav ul {
 	border-width: 2px 0 1px 0;
 	padding: 1.25%;
 }
-nav ul li {
+nav.pages ul li {
 	display: inline;
 	width: 50%;
 	padding: 1.25%;
 }
-nav ul li a {
+nav.pages ul li a {
 	text-decoration: none;
 	color: rgb(79,110,79);
 }
-nav ul li a:hover {
+nav.pages ul li a:hover {
 	color: rgb(50,50,50);
 	font-style: italic;
 	font-family: 'Josefin Sans', sans-serif;
