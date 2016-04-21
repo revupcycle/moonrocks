@@ -4,13 +4,15 @@ body {
 	text-align: center;
 }
 
-img.align-center {
+img {
+	align-content: center;
 	display: block;
 	margin: 0 auto 10px auto;
 	box-shadow: 0 0 10px #777777;
 }
 
 #intro {
+	text-align: center;
 	width: 40%;
 	margin: 0 auto 10px auto;
 	color: rgb(79,110,79);
