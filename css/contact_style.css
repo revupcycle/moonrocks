@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,400italic,600,700);
+
+body {
+	text-align: center;
+}
+
+footer {
+	color: rgb(79,110,79);
+	font-style: normal;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 0.8em; /* 12px/16=0.75em */
+	font-weight: normal;
+	line-height: 0.16em;
+	background-color: #FFFFFF;
+	border-color: #323232;
+	border-style: solid none solid none;
+	border-width: 3px 0 1px 0;
+	width: 20%;
+	padding: 1.25%;
+	margin: 0 auto 10px auto;
+}
